@@ -11,7 +11,7 @@
 </p>
 
 [![Twitter: Aruturu24](https://img.shields.io/twitter/follow/Aruturu24?style=social)](https://twitter.com/Aruturu24)
-[![Linkedin: Arthur Gabryel](https://img.shields.io/badge/-ArthurGabryel-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/arthur-gabryel-96737422b)](https://www.linkedin.com/in/arthur-gabryel-96737422b)
+[![Linkedin: Arthur Gabryel](https://img.shields.io/badge/-ArthurGabryel-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/arthur-gabryel)](https://www.linkedin.com/in/arthur-gabryel)
 [![GitHub aruturu24](https://img.shields.io/github/followers/aruturu24?label=follow&style=social)](https://github.com/aruturu24)
 
 
