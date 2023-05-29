@@ -11,7 +11,7 @@
 </p>
 
 [![Twitter: Aruturu24](https://img.shields.io/twitter/follow/Aruturu24?style=social)](https://twitter.com/Aruturu24)
-[![Linkedin: Arthur Gabryel](https://img.shields.io/badge/-ArthurGabryel-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/arthur-gabryel)](https://www.linkedin.com/in/arthur-gabryel)
+[![Linkedin: Arthur Gabryel](https://img.shields.io/badge/-ArthurGabryel-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aruturu24)](https://www.linkedin.com/in/aruturu24)
 [![GitHub aruturu24](https://img.shields.io/github/followers/aruturu24?label=follow&style=social)](https://github.com/aruturu24)
 
 
@@ -24,7 +24,7 @@
 const art = {
   pronouns: "he" | "him",
   language: ["pt_BR", "en_US"],
-  code: ["HTML", "CSS", "Javascript", "Typescript"],
-  tools: ["React", "Node", "Styled-Components"]
+  code: ["HTML", "CSS", "JavaScript", "TypeScript", "Python", "Golang"],
+  tools: ["React.js", "Node.js", "Styled-Components", "Taildwind", "FastAPI", "Flask", "Docker"]
 }
 ```
