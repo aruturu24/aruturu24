@@ -1,11 +1,11 @@
-<h2> Hi, Arthur Gabryel here!
+<h2> heyo, aruturu24!
  <img src="https://media0.giphy.com/media/3ohzdObIZhSm2oHSIo/giphy.gif?cid=6c09b952a09bb29d382a4df017940635073cb3839b9d70ba&rid=giphy.gif" width="50">
 </h2>
 <img align='right' src="https://media1.giphy.com/media/L7NkQJEhLdjrLl7sLG/giphy.gif?cid=6c09b9527c9823baf1dea9782583cbdb6d88f9b69291cb6d&rid=giphy.gif" width="230">
 <p>
  <em>
-  Programming Student. 
-  Dream of any company
+  Fullstack developer.
+  Zig
   <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
  </em>
 </p>
@@ -24,7 +24,7 @@
 const art = {
   pronouns: "he" | "him",
   language: ["pt_BR", "en_US"],
-  code: ["HTML", "CSS", "JavaScript", "TypeScript", "Python", "Golang"],
-  tools: ["React.js", "Node.js", "Styled-Components", "Taildwind", "FastAPI", "Flask", "Docker"]
+  code: ["JavaScript", "TypeScript", "Python", "Zig"],
+  tools: ["React.js", "Node.js", "Deno", "Styled-Components", "Taildwind", "FastAPI", "Flask", "Docker"]
 }
 ```
